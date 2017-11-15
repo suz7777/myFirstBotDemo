@@ -39,7 +39,7 @@
     },
     "Project": {
       "type": "string",
-      "defaultValue": "CSharp/demo-Search/RealEstateBot"
+      "defaultValue": "RealEstateBot"
     },
     "MicrosoftAppId": {
       "type": "string"
