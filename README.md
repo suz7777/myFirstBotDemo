@@ -13,8 +13,8 @@ Content is modeled as a catalog of items where each item has several attributes 
 
 
 [Deploy Button]: https://azuredeploy.net/deploybutton.png
-[Deploy CSharp/Search/RealEstateBot]: https://azuredeploy.net?repository=https://github.com/microsoft/BotBuilder-Samples/tree/master/CSharp/demo-Search/RealEstateBot
-[Deploy CSharp/Search/JobListingBot]: https://azuredeploy.net?repository=https://github.com/microsoft/BotBuilder-Samples/tree/master/CSharp/demo-Search/JobListingBot
+[Deploy CSharp/Search/RealEstateBot]: https://azuredeploy.net?repository=https://github.com/suz7777/myFirstBotDemo/master/CSharp/demo-Search/RealEstateBot
+[Deploy CSharp/Search/JobListingBot]: https://azuredeploy.net?repository=https://github.com/suz7777/myFirstBotDemo/master/CSharp/demo-Search/JobListingBot
 
 ### Prerequisites
 
