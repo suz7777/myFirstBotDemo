@@ -63,7 +63,7 @@
                     this.found = response.Results.ToList();
                     this.HitStyler.Apply(
                         ref message,
-                        "Here are a few good options I found:",
+                        "Here are a few good options I found: (You can say things like Yammer, Search, etc.)",
                         this.found.ToList().AsReadOnly());
                     await context.PostAsync(message);
                     await context.PostAsync(
